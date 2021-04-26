@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "EXA1_INTERMEDIO_VOLUMEN"
