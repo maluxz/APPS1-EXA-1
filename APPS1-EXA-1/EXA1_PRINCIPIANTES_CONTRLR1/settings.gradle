@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "EXA1_PRINCIPIANTES_CONTRLR1"
